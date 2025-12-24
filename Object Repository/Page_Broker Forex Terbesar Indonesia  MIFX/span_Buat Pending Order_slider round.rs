@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Buat Pending Order_slider round</name>
+   <tag></tag>
+   <elementGuidId>d1dc0418-878a-4320-a0c1-4699ada74a6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.slider.round</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='tradeform']/div/div/div[2]/div[3]/div/div[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>89de6fb7-67bf-4c8f-88b1-18093df01057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider round</value>
+      <webElementGuid>27fed7ae-c9f0-431e-81c8-3881dc9650af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tradeform&quot;)/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-5&quot;]/div[@class=&quot;defaultBorderRadius noRadiusMobile whiteBg padding20 dropShadow&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-6 align-self-center rightText&quot;]/label[@class=&quot;switchToggle&quot;]/span[@class=&quot;slider round&quot;]</value>
+      <webElementGuid>71421d6d-5f98-4a8b-8e86-2af0c425b030</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='tradeform']/div/div/div[2]/div[3]/div/div[2]/label/span</value>
+      <webElementGuid>013fe55d-ebb8-4871-8271-9d5fcb51dce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>ecb0cae1-7968-452d-ba0c-f0fdfcb5bfdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

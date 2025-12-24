@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Lupa Password_submit</name>
+   <tag></tag>
+   <elementGuidId>c03e5a06-074d-42e7-b55a-48aa4d7f0a3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;submit&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c3d39e70-39aa-46b7-bcab-e8dc4193e6b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>618aa277-cbcc-4b6f-97bf-82e74e1b8f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0fdc596b-8956-4386-841a-9bb6b058c21e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>LOG IN</value>
+      <webElementGuid>b4552b7e-2c72-4617-b0e8-65108918f12d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inlineBlock btn-beat btn-green-beat btn-animate-small greenButton rounded8 colorWhite semi-bold</value>
+      <webElementGuid>5a5e7468-f719-425e-948c-3c5022b154c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-12&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-xl-10 col-lg-11 col-12&quot;]/form[@class=&quot;ueFormCheck&quot;]/div[11]/input[@class=&quot;inlineBlock btn-beat btn-green-beat btn-animate-small greenButton rounded8 colorWhite semi-bold&quot;]</value>
+      <webElementGuid>d8c5d9b3-ea65-46a0-975b-8abb8f807e0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='submit']</value>
+      <webElementGuid>9d687908-1618-4e98-b79c-424ec2fe15d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/input</value>
+      <webElementGuid>18494f01-2327-4ec8-8b50-b9748506de9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @name = 'submit']</value>
+      <webElementGuid>8d01cff3-2b8e-4961-a123-37a8ae5c29bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
